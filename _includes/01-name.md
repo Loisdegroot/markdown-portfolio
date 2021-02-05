@@ -1,1 +1,6 @@
-Replace this with your name, and include a header.
+# Portfolie
+## Lois de Groot
+### Email
+### Phone number
+### Birthdate 
+### Bio
