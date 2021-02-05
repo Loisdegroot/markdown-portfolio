@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I, *Lois de Groot*, **MUST** finish this assignment.
+In order to do this I **NEED** to know *what* to do and *when* to do it.
